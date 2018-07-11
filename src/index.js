@@ -4,6 +4,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+const API_KEY = 'AIzaSyCcBCDdozCd3Ts2IZPdMk8FC_H6Blr8SLw'; 
+
 const App = () => {
   return <div>Hi!</div>;
 }
