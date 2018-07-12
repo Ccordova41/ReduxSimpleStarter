@@ -1,6 +1,6 @@
 // Create a new component . this component wil produce HTML
 // take component's geenerated html and put it in the DOM.
-
+import _ from 'lodash'; 
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
